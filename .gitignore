@@ -34,3 +34,5 @@
 *.out
 *.app
 azhar-sheet-01/.vscode/settings.json
+azhar-sheet-01/.vscode/tasks.json
+azhar-sheet-01/.vscode/launch.json
