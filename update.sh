@@ -8,4 +8,5 @@ echo "___" >>README.md
 
 number_of_problems=$(find . -path './**/.cph' -prune -or -path './**/.git' -prune -o -type f -print | grep .cpp -c)
 echo "## 📈 Progress" >>README.md
+echo "" >>README.md
 echo "### Total Problems Solved: $number_of_problems" >>README.md
