@@ -3,4 +3,4 @@
 ___
 ## 📈 Progress
 
-### Total Problems Solved: 76
+### Total Problems Solved: 82
